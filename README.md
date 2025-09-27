@@ -1,13 +1,11 @@
 # 👋 Hi, I’m Riccardo Cicuttin
 
-A short description about yourself goes here — for example:  
-“I’m passionate about statistics, quantitative finance, and applying mathematical tools to real-world problems.”  
 
 ---
 
 ## 🎓 Education
-- **Master’s student in Mathematical Engineering ** – [Politecnico of Milan] 
-- **Bachelor’s in Statistics** – [University of Milano-Bicocca], [Years]  
+- **Master’s student in Mathematical Engineering** – Politecnico of Milan
+- **Bachelor’s in Statistics** – University of Milano-Bicocca
 
 
 ---
