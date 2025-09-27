@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Riccardo Cicuttin
 
-<!--
-**RiccardoCicuttin/RiccardoCicuttin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A short description about yourself goes here — for example:  
+“I’m passionate about statistics, quantitative finance, and applying mathematical tools to real-world problems.”  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **Master’s student in Mathematical Engineering ** – [Politecnico of Milan] 
+- **Bachelor’s in Statistics** – [University of Milano-Bicocca], [Years]  
+
+
+---
+
+## 🔗 Connect with Me
+- 📫 Email: [cicuttinriccardo@gmail.com](mailto:your.email@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
