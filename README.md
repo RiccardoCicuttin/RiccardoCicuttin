@@ -12,5 +12,5 @@
 
 ## 🔗 Connect with Me
 - 📫 Email: [cicuttinriccardo@gmail.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 LinkedIn: [www.linkedin.com/in/riccardo-cicuttin-a83956262](https://linkedin.com/in/yourprofile)  
 
