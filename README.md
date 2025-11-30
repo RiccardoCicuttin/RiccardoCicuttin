@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 Education
-- **MSc student in Mathematical Engineering** – Politecnico di Milan0
+- **MSc student in Mathematical Engineering** – Politecnico di Milano
 - **BSc in Statistics** – Università di Milano-Bicocca
 
 
